@@ -28,7 +28,10 @@ sbt compile
 
 **Running the API**
 To run the API, execute the following command:
-1. sbt run
+
+sbt run
+
+
 This will start the Akka HTTP server and the book store API will be available at http://localhost:8080/api/books.
 
 
